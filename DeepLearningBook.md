@@ -302,7 +302,7 @@ In many cases, we may derive some very general machine learning algorithm in ter
 ![](G:\download\学习\Research\imageTypora\12.jpg)
 
 
-
+ 
 
 
 
