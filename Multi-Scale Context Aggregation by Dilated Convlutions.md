@@ -49,3 +49,21 @@ The authors then build a network out of multiple layers of diluted convolutions,
 
 
 
+
+
+## 3.Multi-Scale Context Aggregation:
+
+
+
+
+
+## 4.Experiments:
+
+
+
+## 5.Conclusion:
+
+
+
+## 6.Reflections & Questions
+
